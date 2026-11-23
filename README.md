@@ -6,6 +6,8 @@ I cleaned the Netflix Movies and TV Shows dataset using Python and Pandas. The g
 
 This project applies a complete data-cleaning workflow to a real-world dataset. The data has the kinds of problems analysts meet in practice: missing values, dates stored as text, values entered in the wrong column, and cells with several values packed together.
 
+The project brief comes from roadmap.sh: [Clean the Netflix Dataset](https://roadmap.sh/projects/cleaning-netflix-dataset).
+
 ## Objectives
 
 - Look at the data properly before changing anything.
@@ -25,7 +27,8 @@ This project applies a complete data-cleaning workflow to a real-world dataset. 
 
 ## Reference
 
-I used Huong Ngo's article [How to Clean Your Data in Python](https://towardsdatascience.com/how-to-clean-your-data-in-python-8f178638b98d/) on Towards Data Science as a guide. I did not copy its row numbers or fixes. I checked every issue against my own copy of the dataset first.
+- **Project brief:** [Clean the Netflix Dataset](https://roadmap.sh/projects/cleaning-netflix-dataset) on roadmap.sh.
+- **Methodology guide:** I used Huong Ngo's article [How to Clean Your Data in Python](https://towardsdatascience.com/how-to-clean-your-data-in-python-8f178638b98d/) on Towards Data Science as a guide. I did not copy its row numbers or fixes. I checked every issue against my own copy of the dataset first.
 
 ## Tools
 
@@ -162,4 +165,4 @@ The cleaned dataset is not perfect. These issues remain open:
 
 ## Acknowledgements
 
-Dataset by Shivam Bansal on Kaggle (CC0: Public Domain). Cleaning approach guided by Huong Ngo's article on Towards Data Science.
+Dataset by Shivam Bansal on Kaggle (CC0: Public Domain). Project brief from roadmap.sh. Cleaning approach guided by Huong Ngo's article on Towards Data Science.
